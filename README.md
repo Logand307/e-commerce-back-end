@@ -3,7 +3,7 @@ e-commerce-back-end
 # Description
 This challenge is the back-end of an e-commerce platform. It is made using sequalize and mySQL2, and features Express as a server framework.
 
-Check out this video I recorded with Screencastify: https://watch.screencastify.com/v/vJASxyzws3SyT4iLbPRW
+Check out this video I recorded with Screencastify: https://watch.screencastify.com/v/XAhd0CsvbkBWBuELfqQg
 
 # Table of Contents 
 * [Installation](#installation)
